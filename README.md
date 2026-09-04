@@ -1,4 +1,4 @@
-# What I Do:
+# About Me:
 I’m currently pursuing my MCA at ITS Mohan Nagar, Ghaziabad. I enjoy learning new concepts , solving problems, and learning how different pieces of technology come together to build something useful.
 
 At the moment, I’m mainly focusing on Data Structures & Algorithms, and Full Stack Development. I’m working on improving my skills, strengthening my programming fundamentals, and getting hands-on experience by building and experimenting with projects.
